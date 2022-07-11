@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Errors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <Error Id="1">
+      <DateTime>2022-07-05T20:35:35.3695054+02:00</DateTime>
+      <Message>There is an error in XML document (11, 12).</Message>
+      <Source>System.Private.Xml</Source>
+      <StackTrace>   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at VFHCatalog.App.Concrete.FileService.FileErrorXMLReader() in C:\Users\MP\source\repos\CatalogOfVegetablesFruitsHerb\VFHCatalog.App\Concrete\FileService.cs:line 183</StackTrace>
+    </Error>
+  </Items>
+</Errors>
