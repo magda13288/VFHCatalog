@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Plants xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <Plant Id="1">
+      <IdType>1</IdType>
+      <GroupId>1</GroupId>
+      <NameId>1</NameId>
+      <FullName>Black Cherry</FullName>
+      <Type>tall</Type>
+      <Color>black</Color>
+      <Destination>ground</Destination>
+      <Description>ok</Description>
+      <Opinion>Very tasty and fertile tomato.</Opinion>
+    </Plant>
+    <Plant Id="2">
+      <IdType>1</IdType>
+      <GroupId>1</GroupId>
+      <NameId>1</NameId>
+      <FullName>Malinowy Red</FullName>
+      <Type>tall</Type>
+      <Color>red</Color>
+      <Destination>ground/under cowers</Destination>
+      <Description>ok</Description>
+      <Opinion>ok</Opinion>
+    </Plant>
+    <Plant Id="3">
+      <IdType>1</IdType>
+      <GroupId>2</GroupId>
+      <NameId>1</NameId>
+      <FullName>Śremski</FullName>
+      <Type>No specified type.</Type>
+      <Color>green</Color>
+      <Destination>ground</Destination>
+      <Description>ok</Description>
+      <Opinion>ok</Opinion>
+    </Plant>
+    <Plant Id="4">
+      <IdType>1</IdType>
+      <GroupId>6</GroupId>
+      <NameId>1</NameId>
+      <FullName>ozima</FullName>
+      <Type>No specified type.</Type>
+      <Color>white</Color>
+      <Destination>ground</Destination>
+      <Description>ok</Description>
+      <Opinion>ok</Opinion>
+    </Plant>
+  </Items>
+  <Items>
+    <Plant Id="5">
+      <IdType>1</IdType>
+      <GroupId>1</GroupId>
+      <NameId>1</NameId>
+      <FullName>Green Zebra Big</FullName>
+      <Type>tall</Type>
+      <Color>green</Color>
+      <Destination>ground/under cowers</Destination>
+      <Description>ok</Description>
+      <Description>ok</Description>
+      <Opinion>Very tasty tomato.</Opinion>
+    </Plant>
+  </Items>
+  <Items>
+    <Plant Id="6">
+      <IdType>1</IdType>
+      <GroupId>2</GroupId>
+      <NameId>2</NameId>
+      <FullName>Nefrettiti</FullName>
+      <Type>No specified type.</Type>
+      <Color>green</Color>
+      <Destination>ground/pots</Destination>
+      <Description>ok</Description>
+      <Description>ok</Description>
+      <Opinion>ok</Opinion>
+    </Plant>
+  </Items>
+  <Items>
+    <Plant Id="7">
+      <IdType>1</IdType>
+      <GroupId>1</GroupId>
+      <NameId>1</NameId>
+      <FullName>Kiwi</FullName>
+      <Type>tall</Type>
+      <Color>green</Color>
+      <Destination>ground/under cowers</Destination>
+      <Description>ok</Description>
+      <Opinion>ok</Opinion>
+    </Plant>
+  </Items>
+  <Items>
+    <Plant Id="8">
+      <IdType>1</IdType>
+      <GroupId>3</GroupId>
+      <NameId>1</NameId>
+      <FullName>Groszek Cukrowy</FullName>
+      <Type>No specified type.</Type>
+      <Color>green</Color>
+      <Destination>ground/pots</Destination>
+      <Description>ok</Description>
+      <Opinion>ok</Opinion>
+    </Plant>
+  </Items>
+  <Items>
+    <Plant Id="9">
+      <IdType>1</IdType>
+      <GroupId>1</GroupId>
+      <NameId>1</NameId>
+      <FullName>Orange pitted</FullName>
+      <Type>tall</Type>
+      <Color>oriange</Color>
+      <Destination>ground</Destination>
+      <Description>ok</Description>
+      <Opinion>ok</Opinion>
+    </Plant>
+  </Items>
+  <Items>
+    <Plant Id="10">
+      <IdType>1</IdType>
+      <GroupId>1</GroupId>
+      <NameId>1</NameId>
+      <FullName>orange pitted</FullName>
+      <Type>tall/coctail</Type>
+      <Color>orange</Color>
+      <Destination>ground/under cowers</Destination>
+      <Description>ok</Description>
+      <Opinion>ok</Opinion>
+    </Plant>
+  </Items>
+</Plants>
