@@ -95,6 +95,7 @@ namespace VFHCatalog.App.Concrete
         }
         public void FileJSONWriter()
         {
+            // public void FileJSONWriter<T>(T service)
              try
                 {
                 //var typeOfService = service.GetType();
