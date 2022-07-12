@@ -336,6 +336,7 @@ namespace VFHCatalog
                                 if (newErrorService.Items.Count > 0)
                                     vegetableFile.FileErrorsJSONWriter();
 
+                                Console.Clear();
                                 break;
                             default:
                                 Console.WriteLine(message._ERROR);

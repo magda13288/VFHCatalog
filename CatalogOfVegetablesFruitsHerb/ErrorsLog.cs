@@ -74,7 +74,7 @@ namespace VFHCatalog
                         errorManager.RemoveError(choosenFile);
                         break;
                     case '4':
-
+                        Console.Clear();
                         Program program = new Program();
                         program.MainMenu();
                         
