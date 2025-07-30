@@ -9,7 +9,7 @@
       <Type>tall</Type>
       <Color>black</Color>
       <Destination>ground</Destination>
-      <Description>ok</Description>
+      <Description>The Black Cherry tomato is also unique in appearance. Its skin is dark, with delicate green stripes visible on it. This is a tall variety with indeterminate growth, suitable for cultivation in the ground with stakes or under covers. The small cherry-type fruits are purple-brown, round, sweet, and exceptionally tasty.</Description>
       <Opinion>Very tasty and fertile tomato.</Opinion>
     </Plant>
     <Plant Id="2">
@@ -20,7 +20,7 @@
       <Type>tall</Type>
       <Color>red</Color>
       <Destination>ground/under cowers</Destination>
-      <Description>ok</Description>
+      <Description>This is a tall, early, and productive variety suitable for cultivation in unheated polytunnels and in the ground with stakes. It produces very large fruits (180-250g), flattened, slightly ribbed, and fairly firm. The fruits are very tasty, fleshy, and covered with a thin, raspberry-colored skin.</Description>
       <Opinion>ok</Opinion>
     </Plant>
     <Plant Id="3">

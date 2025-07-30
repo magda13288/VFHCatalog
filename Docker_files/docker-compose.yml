@@ -1,0 +1,11 @@
+services:
+  vfhcatalogapp:
+    build:
+      context: ../
+      dockerfile: CatalogOfVegetablesFruitsHerb/Dockerfile
+    container_name: vfhcatalogapp
+    networks:
+      - vfhcatalogapp
+
+networks:
+  vfhcatalogapp:
